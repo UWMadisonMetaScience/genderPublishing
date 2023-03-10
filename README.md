@@ -3,4 +3,4 @@
 
 **Authors: Isabel Basson, Chaoqun Ni, Giovanna Badia, Nathalie Tufenkji, Cassidy R. Sugimoto, Vincent Larivière
 
-** Notes: The STAT code used for our analyses is shared. We are unable to share the survey details publicly per IRB protocal.
+** Notes: The STAT code used for our analyses is shared. We are unable to share the survey response details publicly per IRB protocals.
